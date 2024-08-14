@@ -1,0 +1,13 @@
+
+1-Printa en la misma linea
+System.out.print("Hello ");
+System.out.print("World");
+
+Salida : Hello World
+
+2-Da un salto de linea
+System.out.println("Hello");
+System.out.println("World");
+
+Salida: Hello
+        World

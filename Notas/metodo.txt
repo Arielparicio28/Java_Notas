@@ -1,0 +1,5 @@
+Un método es una tarea que realiza un objeto de una clase.
+
+Marcamos el dominio de esta tarea con llaves: {, y }.
+ Todo lo que está dentro de las llaves es parte de la tarea.
+  Este dominio se denomina alcance de un método.

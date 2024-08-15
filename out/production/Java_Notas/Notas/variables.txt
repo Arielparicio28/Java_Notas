@@ -1,0 +1,7 @@
+ 
+Para declarar una variable es necesario especificar el tipo y el nombre:
+
+// datatype variableName
+int age;
+double salaryRequirement;
+boolean isEmployed;

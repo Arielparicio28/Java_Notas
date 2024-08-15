@@ -1,0 +1,1 @@
+Public, protected y private son las palabras clave que se utilizan cuando se declara una variable o un método . Cada una de ellas le indica a Java cuánto debe compartir sobre esa variable o método. Un método público está abierto a otras partes del programa. Y, como era de esperar, el privado es más restrictivo.

@@ -1,0 +1,4 @@
+El polimorfismo, que deriva del griego y significa “muchas formas”, 
+permite que una clase hija comparta la información y
+el comportamiento de su clase padre y, al mismo tiempo, 
+incorpore su propia funcionalidad.

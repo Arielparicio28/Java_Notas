@@ -1,0 +1,4 @@
+
+Los programas Java tienen al menos una clase y un main()método.
+
+El main()método ejecuta las tareas del programa.

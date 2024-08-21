@@ -1,0 +1,13 @@
+1-Los genéricos nos ayudan a crear código genérico y escalable.
+
+2-El operador de diamante ( <>) se utiliza para definir clases, interfaces o métodos genéricos.
+
+3-Los genéricos proporcionan seguridad de tipos en tiempo de compilación y detección de errores a diferencia de los tipos sin formato.
+
+4-Podemos crear múltiples clases, interfaces y métodos genéricos enlazados.
+
+5-Los comodines se utilizan para definir tipos desconocidos.
+
+6-Para agregar límites superiores a los parámetros de tipo y comodines.
+
+7-Para agregar límites inferiores a los comodines.
